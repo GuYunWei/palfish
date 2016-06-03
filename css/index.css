@@ -73,13 +73,6 @@ header nav>div.on a{color: #fff!important;}
 .content .download2{ padding-top: 0.625rem; text-align: center; overflow: hidden;font-size: 0;}
 .content .contact{ padding-top: 1.96875rem; padding-bottom: 0.21875rem; text-align: center; color: #c9c8cd; font-size: 0.390625rem; overflow: hidden;}
 
-[data-dpr="2"] div {
-    font-size: 24px;
-}
-[data-dpr="3"] div {
-    font-size: 36px;
-}
-
 /*.item-section { min-height: 100%; background-color: #ee0a3b; position: relative; font-size: 12px }
 [data-dpr="2"] .item-section { font-size: 24px }
 [data-dpr="3"] .item-section { font-size: 36px }
